@@ -1,0 +1,17 @@
+[
+  {
+    "roll": 1,
+    "name": "Product A",
+    "price1": 19.99
+  },
+  {
+    "roll": 2,
+    "name": "Product B",
+    "price1": 29.99
+  },
+  {
+    "roll": 3,
+    "name": "Product C",
+    "price1": 39.99
+  }
+]

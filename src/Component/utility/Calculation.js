@@ -2,4 +2,7 @@ const add = (first, second) => {
    return  first + second;
  
 }
-export default add
+const multiplication = (x, y) => {
+    return x * y;
+}
+export { add, multiplication };
